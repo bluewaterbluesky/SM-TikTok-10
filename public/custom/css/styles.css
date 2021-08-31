@@ -1,6 +1,5 @@
 body {
     background-color: #008fff;
-    background-image: url('../../images/bg-gradient.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -124,10 +123,40 @@ table.table-bordered-black > tbody > tr > td{
     background-repeat: repeat;
 }
 
-path {
-    fill: transparent;
-  }
-  
-text {
-    fill: #FF9800;
-}  
+.text-yellow {
+    color: #fefd0a !important;
+}
+
+.nav-tabs {
+    border-bottom: 1px solid #fefd0a !important;
+}
+
+.nav-tabs .nav-link {
+    color: #64bbff !important;
+    font-weight: bold;
+    border: none !important;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #fefd0a !important;
+    background: none !important;
+    border-top: 0px solid #fefd0a !important;
+    border-left: 0px solid #fefd0a !important;
+    border-right: 0px solid #fefd0a !important;
+    border-bottom: 5px solid #fefd0a !important;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link:hover {
+    color: #fefd0a !important;
+    background: none !important;
+    border: none !important;
+    border-top: 0px solid #fefd0a !important;
+    border-left: 0px solid #fefd0a !important;
+    border-right: 0px solid #fefd0a !important;
+    border-bottom: 5px solid #fefd0a !important;
+}
+
+.text-justify {
+    text-align: justify;
+    text-justify: inter-word;
+}

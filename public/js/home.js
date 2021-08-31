@@ -23,6 +23,6 @@ $(function(){
       
       var remainingTime  = document.getElementById("timer-text");
       
-      refreshTimer('2021-08-28T13:44');
+      refreshTimer('2021-12-25T13:44');
 
 });
