@@ -185,3 +185,9 @@ table.table-bordered-black > tbody > tr > td{
     background: url('../../images/v4/ornament2.png');
     background-size: cover;
 }
+
+.align-content-justify {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

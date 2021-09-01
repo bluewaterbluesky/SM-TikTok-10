@@ -8,7 +8,7 @@
                         <div class="col-2">
                             <img class="d-none d-sm-block" src="<?= base_url('images/v4/ornament1.png') ?>" width="200px">
                         </div>
-                        <div class="col-8" style="display: flex; justify-content: center; align-items: center;">
+                        <div class="col-8 align-content-justify">
                             <div>
                                 <div>
                                     <h1 class="display-8 fw-bold 1h-1 mb-3 text-white text-shadow">
