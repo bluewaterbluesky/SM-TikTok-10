@@ -264,7 +264,7 @@
                                 </div>
                         </li>
                         <li class="text-justify">
-                            For regional eliminations, SVEN will be selecting total of 3 finalists for each region (1 finalist per category). See Table 1.1 below:
+                            For regional eliminations, SM will be selecting total of 3 finalists for each region (1 finalist per category). See Table 1.1 below:
                                 <p class="text-justify">
                                     <strong>
                                         Table 1.1: Total number of winners for regional elimination of per Challenge category
@@ -486,7 +486,7 @@
                     <strong class="text-white">REGIONAL SELECTION</strong>
                     <ul class="text-white">
                         <li>October 8: Announcement of Regional Qualifiers</li>
-                        <li>October 11: Judging of Regional Qualifiers (c/o SVEN)</li>
+                        <li>October 11: Judging of Regional Qualifiers (c/o SM)</li>
                         <li>October 12: Announcement of Top 18 Finalists</li>
                         <li>October 15-25: Text voting for Finalists and Shopper's Choice Award</li>
                     </ul>
