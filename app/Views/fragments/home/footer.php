@@ -1,17 +1,35 @@
     <div>
         <div class="px-4 -y-5 my-5 text-center">
 
-            <div class="col-lg-6 mx-auto mt-5" style="margin-top: 100px">
-                <h1 class="display-8 fw-bold 1h-1 mb-3 text-white text-shadow">
-                    What are you waiting for? Join SUPER AWESM TIKTOK Challenge!
-                </h1>
-                <div class="d-grid">
-                    <a href="<?= base_url('signup') ?>" class="btn btn-sm-primary shadow" role="button">
-                        <strong>JOIN NOW</strong>
-                    </a>
+            <div class="container">
+
+                <div class="col-lg-12 col-sm-12 col-md-12 mx-auto mt-5" style="margin-top: 100px">
+                    <div class="row">
+                        <div class="col-2">
+                            <img class="d-none d-sm-block" src="<?= base_url('images/v4/ornament1.png') ?>" width="200px">
+                        </div>
+                        <div class="col-8" style="display: flex; justify-content: center; align-items: center;">
+                            <div>
+                                <div>
+                                    <h1 class="display-8 fw-bold 1h-1 mb-3 text-white text-shadow">
+                                        What are you waiting for? Join SUPER AWESM TIKTOK Challenge!
+                                    </h1>
+                                    <div class="d-grid">
+                                        <a href="<?= base_url('signup') ?>" class="btn btn-sm-primary shadow" role="button">
+                                            <strong>JOIN NOW</strong>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-2">
+                            <img class="d-none d-sm-block" src="<?= base_url('images/v4/ornament2.png') ?>" width="200px">
+                        </div>
+                    </div>
                 </div>
+
             </div>
-            
+
         </div>
 
         <div class="d-flex flex-wrap justify-content-center align-items-center bg-dark">
