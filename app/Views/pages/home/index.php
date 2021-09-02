@@ -45,9 +45,6 @@
             <li class="nav-item" role="presentation">
                 <button class="nav-link" id="prizes-tab" data-bs-toggle="tab" data-bs-target="#prizes" type="button" role="tab" aria-controls="prizes" aria-selected="false">Prizes</button>
             </li>
-            <li class="nav-item" role="presentation">
-                <button class="nav-link" id="timetable-tab" data-bs-toggle="tab" data-bs-target="#timetable" type="button" role="tab" aria-controls="timetable" aria-selected="false">Timetable</button>
-            </li>
         </ul>
     </div>
     <div class="container mb-5">
@@ -64,7 +61,7 @@
                             </ul>
                         </li>
                         <li class="text-justify">
-                            Registration and submission period are from August 30 to September 30.
+                            Registration and submission period is from October 1 to October 15.
                         </li>
                         <li class="text-justify">
                             To register, contestants must fill out the online form and submit their entries in the dedicated microsite.
@@ -116,7 +113,7 @@
                             In case that two(2) entries from a contestant will be selected, the said contestant must choose which entry they will submit.
                         </li>
                         <li class="text-justify">
-                            Text voting for the top finalists & Shopper's Choice Award will commence during the Finals round from October 15-25, 2021.
+                            Text voting for the Super Bet Award will commence on October 1 and will last until October 15, 2021.
                         </li>
                         <li class="text-justify">
                             The contestant is responsible for their own production expenses and logistics arrangement. Neither SM Supermalls nor any of those involved in any capacity in organizing, executing, 
@@ -171,100 +168,7 @@
                 <p>
                     <ol class="text-white">
                         <li class="text-justify">
-                            For mall/branch selection, representatives from participating malls will be selecting a total of 3 winners, one for each category. See Table 1 below:
-                                <p class="text-justify">
-                                    <strong>
-                                        Table 1: Number of winners for mall/branch level per Challenge category <br>
-                                        Mall Ellimination: 1 WINNER per category only
-                                    </strong>
-                                </p>
-                                <div style="overflow-x: auto">
-                                    <table class="table table-bordered" width="100%">
-                                        <thead>
-                                            <tr>
-                                                <th class="text-center text-white">Regions</th>
-                                                <th class="text-center text-white">Malls</th>
-                                                <th class="text-center text-white">Number of Winners Per Mall</th>
-                                                <th class="text-center text-white">Total Number of Winners Per Mall x Number of Malls Per Region</th>
-                                            </tr>
-                                        </thead>
-                                        <tbody>
-                                            <tr>
-                                                <td class="text-center text-white">
-                                                    Metro Manila + Premier Malls <br> (20)
-                                                </td>
-                                                <td class="text-center text-white">
-                                                    SMNE, SMMG, SMKL, SMOA, SMSM, SMAU, SMCF, SMNV, SMSJ, SMST, SMCM, SMSL, SMTT, SMEO, SMMA, SMMS, SMMK, SMSC, SMBT, SMBF
-                                                </td>
-                                                <td class="text-center text-white">
-                                                    3
-                                                </td>
-                                                <td class="text-center text-white">
-                                                    60
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td class="text-center text-white">
-                                                    North Luzon <br> (15)
-                                                </td>
-                                                <td class="text-center text-white">
-                                                    SMBG, SMRS, SMUD, SMCA, SMCT, SMOC, SMTL, SMOL, SMPP, SMCK, SMSF, SMTB, SMMR, SMBL, SMVL
-                                                </td>
-                                                <td class="text-center text-white">
-                                                    3
-                                                </td>
-                                                <td class="text-center text-white">
-                                                    45
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td class="text-center text-white">
-                                                    South Luzon <br> (13)
-                                                </td>
-                                                <td class="text-center text-white">
-                                                    SMCB, SMDM, SMML, SMRO, SMTM, SMSR, SMPB, SMCL, SMBA, SMLP, SMLC, SMNG, SMLG
-                                                </td>
-                                                <td class="text-center text-white">
-                                                    3
-                                                </td>
-                                                <td class="text-center text-white">
-                                                    39
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td class="text-center text-white">
-                                                    Visayas <br> (6)
-                                                </td>
-                                                <td class="text-center text-white">
-                                                    SMCC, SMCS, SMSS, SMCI, SMBD, SMPU
-                                                </td>
-                                                <td class="text-center text-white">
-                                                    3
-                                                </td>
-                                                <td class="text-center text-white">
-                                                    18
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td class="text-center text-white">
-                                                    Mindanao <br> (7)
-                                                </td>
-                                                <td class="text-center text-white">
-                                                    SMCO, SMCG, SMBN, SMCD, SMLA, SMGS, SMPCZ
-                                                </td>
-                                                <td class="text-center text-white">
-                                                    3
-                                                </td>
-                                                <td class="text-center text-white">
-                                                    21
-                                                </td>
-                                            </tr>
-                                        </tbody>
-                                    </table>
-                                </div>
-                        </li>
-                        <li class="text-justify">
-                            For regional eliminations, SM will be selecting total of 3 finalists for each region (1 finalist per category). See Table 1.1 below:
+                            For the selection of finalists, SM will be selecting total of 3 finalists for each region (1 finalist per category). See Table 1.1 below:
                                 <p class="text-justify">
                                     <strong>
                                         Table 1.1: Total number of winners for regional elimination of per Challenge category
@@ -325,24 +229,10 @@
                                             </tr>
                                             <tr>
                                                 <td class="text-center text-white">
-                                                    Visayas <br> (6)
+                                                    Visayas + Mindanao <br> (13)
                                                 </td>
                                                 <td class="text-center text-white">
                                                     SMCC, SMCS, SMSS, SMCI, SMBD, SMPU
-                                                </td>
-                                                <td class="text-center text-white">
-                                                    1
-                                                </td>
-                                                <td class="text-center text-white">
-                                                    3
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td class="text-center text-white">
-                                                    Mindanao <br> (7)
-                                                </td>
-                                                <td class="text-center text-white">
-                                                    SMCO, SMCG, SMBN, SMCD, SMLA, SMGS, SMPCZ
                                                 </td>
                                                 <td class="text-center text-white">
                                                     1
@@ -404,7 +294,7 @@
                 <p>
                     <ol class="text-white">
                         <li>
-                            The eighteen(18) regional finalists will move on to the grand finals, which will be declared on October 12, 2021.
+                            The twelve(12) finalists will move on to the Public Voting Round which will announced on October 17, 2021.
                         </li>
                         <li>
                             The grand winners for each category will be announced during the Zoom Party on October 30, 2021.
@@ -425,7 +315,7 @@
                         <tbody>
                             <tr>
                                 <td class="text-center text-white">
-                                    <b>18 FINALISTS</b>
+                                    <b>12 FINALISTS</b>
                                 </td>
                                 <td class="text-center text-white">Total of Php 360,000 SM Gift Certificate (20k per finalist) + sponsor's package</td>
                             </tr>
@@ -437,9 +327,9 @@
                             </tr>
                             <tr>
                                 <td class="text-center text-white">
-                                    <b>SHOPPER'S CHOICE</b>
+                                    <b>Super Bet Award</b>
                                 </td>
-                                <td class="text-center text-white">One (1) winner of Php 30,000 SM Gift Certificate (regardless of the category) + sponsor's package</td>
+                                <td class="text-center text-white">One (1) winner of Php 50,000 SM Gift Certificate (regardless of the category) + sponsor's package</td>
                             </tr>
                         </tbody>
                     </table>
@@ -464,40 +354,6 @@
                         Prizes not claimed within sixty (60) days from receipt of notification will be forfeited with prior approval of DTI, in favor of SM Supermalls and can be awarded to another finalist.
                     </li>
                 </ol>
-            </div>
-            <div class="tab-pane fade" id="timetable" role="tabpanel" aria-labelledby="timetable-tab">
-                <p class="mt-5"><strong class="text-yellow display-7">SUPER AWESM TIKTOK CHALLENGE TIMETABLE</strong></p>
-                <p>
-                    <strong class="text-white">CALL FOR ENTRIES</strong>
-                    <ul class="text-white">
-                        <li>August 23-29 Announcement</li>
-                        <li>August 30 - September 30: Registration & creation of entries</li>
-                    </ul>
-                </p>
-                <p>
-                    <strong class="text-white">MALL SELECTION</strong>
-                    <ul class="text-white">
-                        <li>October 1 (8PM): Deadline of submission for Mall entries</li>
-                        <li>October 2 - 4: Judging of Mall entries</li>
-                        <li>October 6 (3PM): Announcement of Mall Winners</li>
-                    </ul>
-                </p>
-                <p>
-                    <strong class="text-white">REGIONAL SELECTION</strong>
-                    <ul class="text-white">
-                        <li>October 8: Announcement of Regional Qualifiers</li>
-                        <li>October 11: Judging of Regional Qualifiers (c/o SM)</li>
-                        <li>October 12: Announcement of Top 18 Finalists</li>
-                        <li>October 15-25: Text voting for Finalists and Shopper's Choice Award</li>
-                    </ul>
-                </p>
-                <p>
-                    <strong class="text-white">FINALS + ZOOM PARTY</strong>
-                    <ul class="text-white">
-                        <li>October 27: Final judging</li>
-                        <li>October 30: Zoom Party + Announcement of Grand Winners Live</li>
-                    </ul>
-                </p>
             </div>
         </div>
     </div>

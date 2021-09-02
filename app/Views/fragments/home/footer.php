@@ -12,7 +12,7 @@
                             <div>
                                 <div>
                                     <h1 class="display-8 fw-bold 1h-1 mb-3 text-white text-shadow">
-                                        What are you waiting for? Join SUPER AWESM TIKTOK Challenge!
+                                        Do you have what it takes? JOIN THE SM SUPER TIKTOK CHALLENGE!
                                     </h1>
                                     <div class="d-grid">
                                         <a href="<?= base_url('signup') ?>" class="btn btn-sm-primary shadow" role="button">

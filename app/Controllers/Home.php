@@ -16,21 +16,21 @@ class Home extends BaseController
 	}
 
 	public function signup() {
-		// $data = [
-		// 	'title'		=> 'Sign Up',
-		// 	'content'	=> 'pages/home/signup',
-		// 	'js'		=> 'js/signup.js'
-		// ];
-
-		// return view('signup_template', $data);
-
 		$data = [
-			'title'		=> 'Under Maintenance',
-			'content'	=> 'pages/home/maintenance',
-			'js'		=> 'js/maintenance.js'
+			'title'		=> 'Sign Up',
+			'content'	=> 'pages/home/signup',
+			'js'		=> 'js/signup.js'
 		];
 
-		return view('blue_template', $data);
+		return view('signup_template', $data);
+
+		// $data = [
+		// 	'title'		=> 'Under Maintenance',
+		// 	'content'	=> 'pages/home/maintenance',
+		// 	'js'		=> 'js/maintenance.js'
+		// ];
+
+		// return view('blue_template', $data);
 	}
 
 	public function maintenance() {
