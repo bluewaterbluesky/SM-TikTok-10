@@ -22,7 +22,7 @@
                 </p>
                 <h5 class="text-white text-center text-shadow">
                     <strong>
-                        Aug 30 to Sept 30, 2021.
+                        Oct 1 to Oct 15, 2021.
                     </strong>
                 </h5>
                 <div class="justify-content-center mt-4 text-center">
