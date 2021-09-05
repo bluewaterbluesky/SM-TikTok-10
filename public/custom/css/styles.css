@@ -191,3 +191,34 @@ table.table-bordered-black > tbody > tr > td{
     justify-content: center;
     align-items: center;
 }
+
+.avatar-img-circle {
+    border-radius: 50%;
+    margin: 3px;
+}
+
+.radius-20 {
+    border-radius: 20px !important;
+}
+
+.profile-sidebar {
+    border-top-right-radius: 20px !important;
+    border-bottom-right-radius: 20px !important;
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+    height: 100vh;
+}
+
+.bg-pink {
+    background-color: #de588f !important;
+    color: #fff !important;
+}
+
+.border-none {
+    border: none !important;
+}
+
+.text-justify {
+    text-align: justify;
+    text-justify: inter-word;
+}
