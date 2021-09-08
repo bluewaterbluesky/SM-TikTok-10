@@ -1,9 +1,15 @@
 <?php
 
 namespace App\Controllers;
+use App\Helpers\TikTokHelper;
 
 class Home extends BaseController
 {
+	protected $tiktokHelper;
+	public function __construct() {
+		$this->tiktokHelper = new TikTokHelper();
+	}
+
 	public function index()
 	{
 		$data = [
@@ -13,6 +19,9 @@ class Home extends BaseController
 		];
 
 		return view('home', $data);
+
+		// $url = 'https://www.tiktok.com/@badhare/video/6999589897543748865?sender_device=pc&sender_web_id=6982447907165226498&is_from_webapp=v1&is_copy_url=0';
+		// echo json_encode($this->tiktokHelper->getVideo($url), true);
 	}
 
 	public function signup() {

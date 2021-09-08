@@ -130,6 +130,7 @@
             </div>
             <div class="tab-pane fade" id="guidelines" role="tabpanel" aria-labelledby="guidelines-tab">
                 <p class="mt-5"><strong class="text-yellow display-7">SM JINGLE TIKTOK CHALLENGE GUIDELINES</strong></p>
+                <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@badhare/video/6999589897543748865" data-video-id="6999589897543748865" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@badhare" href="https://www.tiktok.com/@badhare">@badhare</a> <p><a title="badhare" target="_blank" href="https://www.tiktok.com/tag/badhare">#badhare</a> <a title="мультик" target="_blank" href="https://www.tiktok.com/tag/%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%BA">#мультик</a></p> <a target="_blank" title="♬ original sound - ปิรันย่า - Piranha" href="https://www.tiktok.com/music/original-sound-ปิรันย่า-6980733454824557339">♬ original sound - ปิรันย่า - Piranha</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
                 <p>
                     <ol class="text-white">
                         <li class="text-justify">
