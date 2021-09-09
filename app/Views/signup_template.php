@@ -16,6 +16,7 @@
 
     <?php echo view($content) ?>
 
+    <script> var base_url = '<?= base_url('') ?>'; </script>
     <script src="<?= base_url('dist/js/bootstrap.bundle.min.js') ?>"></script>
     <script src="<?= base_url('jquery/jquery.min.js') ?>"></script>
     <script src="<?= base_url($js) ?>"></script>

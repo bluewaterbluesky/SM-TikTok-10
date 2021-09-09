@@ -34,15 +34,15 @@
                                 </div>
                                 <div class="form-group mt-3">
                                     <label>Full Address</label>
-                                    <textarea name="full_address" class="form-control" placeholder="Barangay, Municipality/City, Province"></textarea>
+                                    <textarea name="address" class="form-control" placeholder="Barangay, Municipality/City, Province"></textarea>
                                 </div>
                                 <div class="form-group mt-3">
                                     <label>Short Description</label>
-                                    <textarea name="short_description" class="form-control" placeholder="Share a short description about you!"></textarea>
+                                    <textarea name="description" class="form-control" placeholder="Share a short description about you!"></textarea>
                                 </div>
                                 <div class="form-group mt-3">
                                     <label>Contact Number</label>
-                                    <input type="email" name="email" class="form-control" placeholder="09XXXXXXXXX">
+                                    <input type="contact" name="email" class="form-control" placeholder="09XXXXXXXXX">
                                 </div>
                                 <div class="form-group mt-3">
                                     <label>Email Address</label>
@@ -70,20 +70,20 @@
                                 </div>
                                 <div class="form-group mt-3">
                                     <div class="form-check mb-2">
-                                        <input class="form-check-input" type="checkbox" value="" id="agreement-1">
+                                        <input class="form-check-input" type="checkbox" value="agreement_1" name="agreement_1" id="agreement-1">
                                         <label class="form-check-label text-justify" for="agreement-1">
                                             I read and accept <a href="#">privacy policy</a> of SM Supermalls.
                                         </label>
                                     </div>
                                     <div class="form-check mb-2">
-                                        <input class="form-check-input" type="checkbox" value="" id="agreement-2">
+                                        <input class="form-check-input" type="checkbox" value="agreement_2" name="agreement_2" id="agreement-2">
                                         <label class="form-check-label text-justify" for="agreement-2">
                                             I agree and consent to the Privacy Policy of SM Supermalls in my child's behalf.
                                         </label>
                                     </div>
                                     <div class="form-check mb-2">
-                                        <input class="form-check-input" type="checkbox" value="" id="agreement-2">
-                                        <label class="form-check-label text-justify" for="agreement-2">
+                                        <input class="form-check-input" type="checkbox" value="agreement_3" name="agreement_3" id="agreement-3">
+                                        <label class="form-check-label text-justify" for="agreement-3">
                                             I agree that I am responsible for my own production expenses and logistics arrangements. 
                                             Neither SM Supermalls nor any of those involved in any capacity in organizing, executing, 
                                             judging or supplying prizes for SM Super TikTok Challenge is responsible for covering or reimbursing 
@@ -91,8 +91,8 @@
                                         </label>
                                     </div>
                                     <div class="form-check mb-2">
-                                        <input class="form-check-input" type="checkbox" value="" id="agreement-2">
-                                        <label class="form-check-label text-justify" for="agreement-2">
+                                        <input class="form-check-input" type="checkbox" value="agreement_4" name="agreement_4" id="agreement-4">
+                                        <label class="form-check-label text-justify" for="agreement-4">
                                             I agree to the use of my photograph/s, name, personal biography, submitted video and audio material/s 
                                             within the current calendar year and in the succeeding two(2) years, and the use of that information 
                                             in all forms of media and communication related to SM Supermalls and SM Super TikTok Challenge without 

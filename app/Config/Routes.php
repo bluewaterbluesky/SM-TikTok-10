@@ -45,6 +45,15 @@ $routes->group('dashboard', function($routes) {
 
 });
 
+$routes->group('func', function($routes) {
+
+	$routes->group('user', function($routes) {
+		$routes->resource('user');
+		$routes->post('signup', 'Auth::signup');
+	});
+
+});
+
 /*
  * --------------------------------------------------------------------
  * Additional Routing

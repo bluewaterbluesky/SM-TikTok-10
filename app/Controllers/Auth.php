@@ -105,6 +105,34 @@ class Auth extends ResourceController
 				'errors'	=> [
 					'required' => '{field} is required.'
 				]
+			],
+			'agreement_1'	=> [
+				'label'		=> 'First Agreement',
+				'rules'		=> 'required',
+				'errors'	=> [
+					'required' => 'You must agree to this before submitting.'
+				]
+			],
+			'agreement_2'	=> [
+				'label'		=> 'Second Agreement',
+				'rules'		=> 'required',
+				'errors'	=> [
+					'required' => 'You must agree to this before submitting.'
+				]
+			],
+			'agreement_3'	=> [
+				'label'		=> 'Third Agreement',
+				'rules'		=> 'required',
+				'errors'	=> [
+					'required' => 'You must agree to this before submitting.'
+				]
+			],
+			'agreement_4'	=> [
+				'label'		=> 'Fourth Agreement',
+				'rules'		=> 'required',
+				'errors'	=> [
+					'required' => 'You must agree to this before submitting.'
+				]
 			]
 		]);
 
