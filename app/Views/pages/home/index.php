@@ -9,7 +9,7 @@
                     <img src="<?= base_url('images/v4/SSTC logo.png') ?>" width="300px">
                 </div>
                 <h1 class="display-3 fw-bold 1h-1 mb-3 text-yellow text-shadow" id="timer-text">00:00:00</h1>
-                <p class="lead text-white text-shadow">
+                <p class="lead text-white text-shadow text-justify">
                     <strong>
                         The countdown begins! Flex your TikTok skills and vibe to the SM Jingle with your fam, friends, 
                         and fur babies for a chance to win <strong class="text-yellow">P100,000</strong> cash and more!
@@ -50,87 +50,118 @@
     <div class="container mb-5">
         <div class="tab-content" id="myTabContent">
             <div class="tab-pane fade show active" id="how-to-join" role="tabpanel" aria-labelledby="how-to-join-tab">
-                <p class="mt-5 text-justify"><strong class="text-yellow display-7">REGISTRATION PROCESS AND GENERAL RULES</strong></p>
-                <p>
-                    <ol class="text-white">
-                        <li class="text-justify">
-                            Super AweSM TikTok Challenge is open to all individuals ages thirteen(13) years old and above.
-                            <ul>
-                                <li class="text-justify">Kids may only join with adult supervision.</li>
-                                <li class="text-justify">Employees of SM Supermalls, their advertising and PR agencies, including their relatives up to the second degree of consanguinity or affinity, are not qualified to join the contest.</li>
-                            </ul>
-                        </li>
-                        <li class="text-justify">
-                            Registration and submission period is from October 1 to October 15.
-                        </li>
-                        <li class="text-justify">
-                            To register, contestants must fill out the online form and submit their entries in the dedicated microsite.
-                        </li>
-                        <li class="text-justify">
-                            Contestants must complete the registration process before and they can upload their entries.
-                        </li>
-                        <li class="text-justify">
-                            Registration process:
-                            <ul>
-                                <li class="text-justify">
-                                    Interested participant must visit the Super AweSM TikTok CHallenge microsite <a class="text-yellow text-decoration-none" href="https://"><strong>https://</strong></a> and choose the TikTok category entry/entries - Super Fam, Super PaweSM, Super Youth.
-                                </li>
-                                <li class="text-justify">
-                                    Participant must create a profile and accomplish the online form needed.
-                                </li>
-                                <li class="text-justify">
-                                    Upon submission, participant must upload their entry/entries specifying their social media handle(s) and link(s) of their entry/entries.
-                                </li>
-                                <li class="text-justify">
-                                    Contestant should have their TikTok accounts and entries set to public.
-                                </li>
-                                <li class="text-justify">
-                                    Each contestant may submit a maximum of 6 entries across all categories.
-                                </li>
-                            </ul>
-                        </li>
-                        <li>
-                            Registration composition:
-                            <ul>
-                                <li>Name</li>
-                                <li>Age</li>
-                                <li>Contact Number</li>
-                                <li>Email Address</li>
-                                <li>Name of preferred mall they want to represent</li>
-                                <li>For verification, valid ID with date of birth (for 13-16 years old contestants, valid ID of the adult)</li>
-                                <li>Profile photo + short description (for the Creator Profile)</li>
-                            </ul>
-                        </li>
-                        <li>
-                            Entry submission composition:
-                            <ul>
-                                <li>Entry Title</li>
-                                <li>Entry Link</li>
-                                <li>Category to be submitted in: Category tick boxes (Super Fam, Super PaweSM, Super Youth)</li>
-                            </ul>
-                        </li>
-                        <li class="text-justify">
-                            In case that two(2) entries from a contestant will be selected, the said contestant must choose which entry they will submit.
-                        </li>
-                        <li class="text-justify">
-                            Text voting for the Super Bet Award will commence on October 1 and will last until October 15, 2021.
-                        </li>
-                        <li class="text-justify">
-                            The contestant is responsible for their own production expenses and logistics arrangement. Neither SM Supermalls nor any of those involved in any capacity in organizing, executing, 
-                            judging, or supplying prizes for Super AweSM TikTok Challenge is responsible for covering or reimbursing any expense that maybe incurred by the contestants.
-                        </li>
-                        <li class="text-justify">
-                            The contestants and the winners agree to the use of their photograph/s, name, personal biography, submitted video and audio material/s within the current calendar year and in the succeeding two(2) 
-                            years, and the use of that information in all forms of media and communication related to SM Supermall and Super AweSM TikTok Challenge without compensation, consideration or  and hereby releases SM Supermalls, 
-                            its employees, representatives, and organizers, from any claims or liability arising out of or with respect to such use and, in particular, irrevocably assign any and all copyright right to SM Supermalls regarding 
-                            the contestant's submited entry/material in Super AweSM TikTok Challenge and the contestant and hist/her parents or guardians waives any and all moral rights relating to same.
-                        </li>
-                    </ol>
-                </p>
+                <div class="row mt-5">
+                    <div class="col-sm-12 col-md-4 col-lg-4 text-center">
+                        <img src="<?= base_url('images/v5/goto-icn.png') ?>">
+                        <h4 class="text-yellow">
+                            <strong>STEP 1</strong>
+                        </h4>
+                        <p class="text-white">Go to Super TikTok Challenge Site</p>
+                    </div>
+                    <div class="col-sm-12 col-md-4 col-lg-4 text-center">
+                        <img src="<?= base_url('images/v5/regandselect-icn.png') ?>">
+                        <h4 class="text-yellow">
+                            <strong>STEP 2</strong>
+                        </h4>
+                        <p class="text-white">Register and select a category</p>
+                    </div>
+                    <div class="col-sm-12 col-md-4 col-lg-4 text-center">
+                        <img src="<?= base_url('images/v5/recordslay-icn.png') ?>">
+                        <h4 class="text-yellow">
+                            <strong>STEP 3</strong>
+                        </h4>
+                        <p class="text-white">Shoot and slay using the SM Jingle and submit your entry!</p>
+                    </div>
+                </div>
+                <div class="border border-white mt-5 mb-5">
+                    <div class="accordion accordion-flush" id="accordionFlushExample">                     
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+                            <strong class="text-yellow">See the full mechanics</strong>
+                        </button>
+                        <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+                            <p>
+                                <ol class="text-white">
+                                    <li class="text-justify">
+                                        Super AweSM TikTok Challenge is open to all individuals ages thirteen(13) years old and above.
+                                        <ul>
+                                            <li class="text-justify">Kids may only join with adult supervision.</li>
+                                            <li class="text-justify">Employees of SM Supermalls, their advertising and PR agencies, including their relatives up to the second degree of consanguinity or affinity, are not qualified to join the contest.</li>
+                                        </ul>
+                                    </li>
+                                    <li class="text-justify">
+                                        Registration and submission period is from October 1 to October 15.
+                                    </li>
+                                    <li class="text-justify">
+                                        To register, contestants must fill out the online form and submit their entries in the dedicated microsite.
+                                    </li>
+                                    <li class="text-justify">
+                                        Contestants must complete the registration process before and they can upload their entries.
+                                    </li>
+                                    <li class="text-justify">
+                                        Registration process:
+                                        <ul>
+                                            <li class="text-justify">
+                                                Interested participant must visit the Super AweSM TikTok CHallenge microsite <a class="text-yellow text-decoration-none" href="https://"><strong>https://</strong></a> and choose the TikTok category entry/entries - Super Fam, Super PaweSM, Super Youth.
+                                            </li>
+                                            <li class="text-justify">
+                                                Participant must create a profile and accomplish the online form needed.
+                                            </li>
+                                            <li class="text-justify">
+                                                Upon submission, participant must upload their entry/entries specifying their social media handle(s) and link(s) of their entry/entries.
+                                            </li>
+                                            <li class="text-justify">
+                                                Contestant should have their TikTok accounts and entries set to public.
+                                            </li>
+                                            <li class="text-justify">
+                                                Each contestant may submit a maximum of 6 entries across all categories.
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li>
+                                        Registration composition:
+                                        <ul>
+                                            <li>Name</li>
+                                            <li>Age</li>
+                                            <li>Contact Number</li>
+                                            <li>Email Address</li>
+                                            <li>Name of preferred mall they want to represent</li>
+                                            <li>For verification, valid ID with date of birth (for 13-16 years old contestants, valid ID of the adult)</li>
+                                            <li>Profile photo + short description (for the Creator Profile)</li>
+                                        </ul>
+                                    </li>
+                                    <li>
+                                        Entry submission composition:
+                                        <ul>
+                                            <li>Entry Title</li>
+                                            <li>Entry Link</li>
+                                            <li>Category to be submitted in: Category tick boxes (Super Fam, Super PaweSM, Super Youth)</li>
+                                        </ul>
+                                    </li>
+                                    <li class="text-justify">
+                                        In case that two(2) entries from a contestant will be selected, the said contestant must choose which entry they will submit.
+                                    </li>
+                                    <li class="text-justify">
+                                        Text voting for the Super Bet Award will commence on October 1 and will last until October 15, 2021.
+                                    </li>
+                                    <li class="text-justify">
+                                        The contestant is responsible for their own production expenses and logistics arrangement. Neither SM Supermalls nor any of those involved in any capacity in organizing, executing, 
+                                        judging, or supplying prizes for Super AweSM TikTok Challenge is responsible for covering or reimbursing any expense that maybe incurred by the contestants.
+                                    </li>
+                                    <li class="text-justify">
+                                        The contestants and the winners agree to the use of their photograph/s, name, personal biography, submitted video and audio material/s within the current calendar year and in the succeeding two(2) 
+                                        years, and the use of that information in all forms of media and communication related to SM Supermall and Super AweSM TikTok Challenge without compensation, consideration or  and hereby releases SM Supermalls, 
+                                        its employees, representatives, and organizers, from any claims or liability arising out of or with respect to such use and, in particular, irrevocably assign any and all copyright right to SM Supermalls regarding 
+                                        the contestant's submited entry/material in Super AweSM TikTok Challenge and the contestant and hist/her parents or guardians waives any and all moral rights relating to same.
+                                    </li>
+                                </ol>
+                            </p>                            
+                        </div>
+                    </div>
+                    
+                </div>
             </div>
             <div class="tab-pane fade" id="guidelines" role="tabpanel" aria-labelledby="guidelines-tab">
                 <p class="mt-5"><strong class="text-yellow display-7">SM JINGLE TIKTOK CHALLENGE GUIDELINES</strong></p>
-                <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@badhare/video/6999589897543748865" data-video-id="6999589897543748865" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@badhare" href="https://www.tiktok.com/@badhare">@badhare</a> <p><a title="badhare" target="_blank" href="https://www.tiktok.com/tag/badhare">#badhare</a> <a title="мультик" target="_blank" href="https://www.tiktok.com/tag/%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%BA">#мультик</a></p> <a target="_blank" title="♬ original sound - ปิรันย่า - Piranha" href="https://www.tiktok.com/music/original-sound-ปิรันย่า-6980733454824557339">♬ original sound - ปิรันย่า - Piranha</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
                 <p>
                     <ol class="text-white">
                         <li class="text-justify">

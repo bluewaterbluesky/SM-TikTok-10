@@ -222,3 +222,17 @@ table.table-bordered-black > tbody > tr > td{
     text-align: justify;
     text-justify: inter-word;
 }
+
+.border {
+    padding: 20px;
+}
+
+.border-white {
+    border: 1px solid #fff;
+}
+
+.border-no-attribute, .accordion-button, .accordion-button:focus, .accordion-button:not(.collapsed) {
+    background-color: #008fff !important;
+    border: none !important;
+    border-bottom: 0px solid #fff !important;
+}
