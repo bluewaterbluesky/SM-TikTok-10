@@ -14,12 +14,13 @@
                                     <div class="row">
                                         <div class="col-2 sm-margin-right-20">
                                             <div class="sm-avatar text-end">
-                                                <img src="<?= base_url('images/no-avatar.png') ?>" style="margin-top: -5px !important">
+                                                <img id="avatarImg" src="<?= base_url('images/no-avatar.png') ?>" style="margin-top: -5px !important">
                                             </div>
                                         </div>
                                         <div class="col-8">
                                             <div class="d-grid">
-                                                <button type="button" class="btn btn-sm-primary"><i class="fa fa-image"></i> Upload a Photo</button>
+                                                <input type="file" name="avatar" style="display: none">
+                                                <button type="button" id="uploadAvatarBtn" class="btn btn-sm-primary"><i class="fa fa-image"></i> Upload a Photo</button>
                                             </div>
                                         </div>
                                     </div>
@@ -66,7 +67,11 @@
                                     <p>For verification, we need your valid with date of birth</p>
                                     <p class="text-muted">Upload a scanned or photo of valid ID</p>
                                     <p>File must be at least 2mb and file format must be in jpg, png, or pdf</p>
-                                    <button type="button" class="btn btn-sm-outline-primary mt-3 mb-3"><i class="fa fa-upload"></i> Upload file</button>
+                                    <input type="file" name="validID" style="display: none">
+                                    <button type="button" id="uploadValidIDBtn" class="btn btn-sm-outline-primary mt-3 mb-3"><i class="fa fa-upload"></i> Upload file</button>
+                                    <p>
+                                        <strong><span id="validIDText"></span></strong>
+                                    </p>
                                 </div>
                                 <div class="form-group mt-3">
                                     <div class="form-check mb-2">

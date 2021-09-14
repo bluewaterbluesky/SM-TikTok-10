@@ -46,6 +46,38 @@ $(function() {
             }
         });
     });
+
+    $('#uploadAvatarBtn').on('click', function() {
+        $('input[name="avatar"]').trigger('click');
+    });
+
+    $('input[name="avatar"]').on('change', function() {
+        if( this.files && this.files[0] ) {
+            var reader = new FileReader();
+
+            reader.onload = function( e ) {
+                $('#avatarImg').attr('src', e.target.result);
+            }
+
+            reader.readAsDataURL( this.files[0] );
+        }
+    });
+
+    $('#uploadValidIDBtn').on('click', function() {
+        $('input[name="validID"]').trigger('click');
+    });
+
+    $('input[name="validID"]').on('change', function() {
+        if ( this.files && this.files[0] ) {
+            var reader = new FileReader();
+
+            reader.onload = function( e ) {
+                $('#validIDText').text( $('input[name="validID"]').val().replace(/.*(\/|\\)/, '') );
+            }
+
+            reader.readAsDataURL( this.files[0] );
+        }
+    });
 });
 
 function alertMessage(message, type) {
