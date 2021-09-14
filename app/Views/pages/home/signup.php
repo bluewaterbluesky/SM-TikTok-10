@@ -14,7 +14,7 @@
                                     <div class="row">
                                         <div class="col-2 sm-margin-right-20">
                                             <div class="sm-avatar text-end">
-                                                <img src="<?= base_url('images/no-avatar.png') ?>">
+                                                <img src="<?= base_url('images/no-avatar.png') ?>" style="margin-top: -5px !important">
                                             </div>
                                         </div>
                                         <div class="col-8">

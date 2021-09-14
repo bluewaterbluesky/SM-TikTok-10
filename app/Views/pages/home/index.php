@@ -9,9 +9,9 @@
                     <img src="<?= base_url('images/v4/SSTC logo.png') ?>" width="300px">
                 </div>
                 <!-- <h1 class="display-3 fw-bold 1h-1 mb-3 text-yellow text-shadow" id="timer-text">00:00:00</h1> -->
-                <p class="lead text-white text-shadow text-justify">
+                <p class="lead text-white text-shadow text-justify mt-3">
                     <strong>
-                        The countdown begins! Flex your TikTok skills and vibe to the SM Jingle with your fam, friends, 
+                        Flex your TikTok skills and vibe to the SM Jingle with your fam, friends, 
                         and fur babies for a chance to win <strong class="text-yellow">P100,000</strong> cash and more!
                     </strong>
                 </p>
