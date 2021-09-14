@@ -94,6 +94,10 @@ body {
     .maintenance img {
         width: 300px;
     }
+
+    .sm-margin-right-20 {
+        margin-right: 20px !important;
+    }
 }
 
 .text-shadow {

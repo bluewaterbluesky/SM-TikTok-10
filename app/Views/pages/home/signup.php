@@ -12,12 +12,12 @@
                             <form id="signup-form">
                                 <div class="form-group mt-5">
                                     <div class="row">
-                                        <div class="col-2">
+                                        <div class="col-2 sm-margin-right-20">
                                             <div class="sm-avatar text-end">
                                                 <img src="<?= base_url('images/no-avatar.png') ?>">
                                             </div>
                                         </div>
-                                        <div class="col-9">
+                                        <div class="col-8">
                                             <div class="d-grid">
                                                 <button type="button" class="btn btn-sm-primary"><i class="fa fa-image"></i> Upload a Photo</button>
                                             </div>
